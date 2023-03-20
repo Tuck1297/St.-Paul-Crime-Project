@@ -2,7 +2,7 @@
 
 ## St. Paul Crime Data Visualization Project
 
-#About the Project
+# About the Project
 
 This was a project is a accumulation of the last two projects from a Web Development Course held at the University of St. Thomas. It's primary focus was to developing an understanding in what it takes to develop on the front and back end of a application. 
 
@@ -14,6 +14,6 @@ The back end of this project is located in [this] repository and is a RESTful-AP
 
 The front end of this project is located in [this]() repository and is a UI created using jQuery, Foundation and Vue.js along with some other libraries and APIs. This part of the project was mainly focused on developing the interface that would make it easier to filter thorugh crime data that is provided by the RESTful API. It is also outlines the importance of how different libraries communicate with one another, and how they allow developers to save time rather than reinventing the wheel. 
 
-## Let it Live!!!
+# Let it Live!!!
 
 If you are unable at this time to download and run both of these projects to your personal IDE (integration development environment) you are most welcome in checking out the [this](https://tuck1297.github.io/Vue-Single-Page-St.-Paul-Crime/) link which is the project hosted between three different services. The first is Cockroach DB which is a cloud based database service storing data in Postgresql, the second is Vercel which hosts the Restful API, and the third is Github which hosts the User Interface page. I hope you enjoy checking out this project. 
