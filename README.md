@@ -4,7 +4,7 @@
 
 # About the Project
 
-This was a accumulation of the last two projects from a Web Development Course held at the University of St. Thomas. It's primary focus was to develop an understanding in what it takes to develop an application user interface (UI) and a application program interface (API). 
+This project focused on creating a system that can efficiently filter thorugh and handle a massive amount of crime data maintained by the city of St. Paul in Minnesota. Utilizing a map and a table representing the crime data, a user can select an address related to a specific crime and be given an estimated location on the map that represents where the crime took place. There is also functionality allowing users to add and delete crimes from the database. This application was built using Node for the backend and Vue3 for the front-end. This project is a great example of how technology can be used to make data more accessible and easier to understand.
 
 ---
 
