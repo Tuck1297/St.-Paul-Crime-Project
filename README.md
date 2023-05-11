@@ -1,6 +1,8 @@
-![St. Paul Capital Building](https://www.encirclephotos.com/wp-content/uploads/Minnesota-Saint-Paul-Minnesota-State-Capitol-Building-1440x954.jpg)
+<div align="center"> 
+  <h1>St. Paul Crime Data Visualization Project</h1>
+</div>
 
-## St. Paul Crime Data Visualization Project
+![St. Paul Capital Building](https://www.encirclephotos.com/wp-content/uploads/Minnesota-Saint-Paul-Minnesota-State-Capitol-Building-1440x954.jpg)
 
 # About the Project
 
