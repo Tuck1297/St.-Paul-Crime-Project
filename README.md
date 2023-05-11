@@ -4,31 +4,31 @@
 
 ![St. Paul Capital Building](https://www.encirclephotos.com/wp-content/uploads/Minnesota-Saint-Paul-Minnesota-State-Capitol-Building-1440x954.jpg)
 
-# About the Project
+<h2>About the Project</h2>
 
 This project focused on creating a system that can efficiently filter thorugh and handle a massive amount of crime data maintained by the city of St. Paul in Minnesota. Utilizing a map and a table representing the crime data, a user can select an address related to a specific crime and be given an estimated location on the map that represents where the crime took place. There is also functionality allowing users to add and delete crimes from the database. This application was built using Node for the backend and Vue3 for the front-end. This project is a great example of how technology can be used to make data more accessible and easier to understand.
 
 ---
 
-## Back-End Development
+<h2>Back-End Development</h2>
 
 The back end of this project is located in [this](https://github.com/Tuck1297/Crime-RESTful-API) repository and is a RESTful-API created using Node that communicates with a SQLite 3 database to retrieve and return data queried to the server by a client (in this case the UI below). This portion of the project focuses on understanding how important APIs are to web development today. It also provides an opportunity to learn the foundations of SQL and how it is used to query a database for information. 
 
 ---
 
-## Front-End Development
+<h2>Front-End Development</h2>
 
 The front end of this project is located in [this](https://github.com/Tuck1297/Crime-VueJS-UI) repository and is a UI created using jQuery, Foundation and Vue3 along with some other libraries and APIs. This part of the project was mainly focused on developing the interface that would make it easier to filter through crime data that is provided by the RESTful API. It also outlines the importance of how different libraries communicate with one another, and how they allow developers to save time rather than reinventing the wheel. 
 
 ---
 
-## Let it Live!!!
+<h2>Let it Live!!!</h2>
 
 If you are unable at this time to download and run both of these projects to your personal IDE (integration development environment) you are most welcome in checking out the [this](https://tuck1297.github.io/Vue-Single-Page-St.-Paul-Crime/) link which is the project hosted between three different services. The first is Cockroach DB which is a cloud based database service storing data in Postgresql, the second is Vercel which hosts the Restful API, and the third is Github which hosts the User Interface page. I hope you enjoy checking out this project. 
 
 ---
 
-## Languages and Tools Used
+<h2>Languages and Tools Used</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
